@@ -1,3 +1,4 @@
+해당 프로젝트는 Intellij/Spring Boot로 제작되었습니다.
 아래 코드를 application.properties에 입력해주세요.
 
 # Security
